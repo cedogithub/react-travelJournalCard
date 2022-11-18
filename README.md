@@ -1,5 +1,6 @@
 # Dynamic Travel journal made with React
 # Props and array of objects containing data was used to dynamically render the card info component
+# CSS 100% hand-made
 
 site: https://stirring-sunflower-4db593.netlify.app/
 
